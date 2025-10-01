@@ -1,3 +1,6 @@
+import React, { useRef, useEffect } from "react";
+import { motion } from "framer-motion";
+
 import * as THREE from 'three'
 
 function BackgroundScene() {

@@ -1,3 +1,5 @@
+
+import React, { Suspense } from "react";
 const Hero = React.lazy(() => import('./sections/Hero'))
 const Story = React.lazy(() => import('./sections/Story'))
 const Exclusivity = React.lazy(() => import('./sections/Exclusivity'))
