@@ -1,5 +1,3 @@
-import React from 'react'
-import { motion } from 'framer-motion'
 
 export default function Application() {
   const formUrl = 'https://forms.gle/LDKAjJJJmRaMrWLv6'
